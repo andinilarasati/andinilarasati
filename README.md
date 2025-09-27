@@ -1,6 +1,8 @@
 ## Hello I'm andinilarasati
 
 
+<p align="center">
+  <img src="img/Tom_and_Jerry_Sleepy_Tom.gif" width="400"/>
+</p>
 
-## 📊 GitHub Stats
-![Andini's GitHub stats](https://github-readme-stats.vercel.app/api?username=andinilarasati&show_icons=true&theme=tokyonight)
+
