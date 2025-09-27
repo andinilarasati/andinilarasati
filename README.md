@@ -2,4 +2,5 @@
 
 
 
-Halo 👋 ini README profilku 🚀
+## 📊 GitHub Stats
+![Andini's GitHub stats](https://github-readme-stats.vercel.app/api?username=andinilarasati&show_icons=true&theme=tokyonight)
